@@ -1,0 +1,2 @@
+#!/bin/bash
+./bin/finance-csv_linux_amd64 > ./data/$(date +"%m-%d-%Y").csv
